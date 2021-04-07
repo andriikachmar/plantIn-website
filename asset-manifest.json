@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/plantIn-website/static/css/main.37a71735.chunk.css",
-    "main.js": "/plantIn-website/static/js/main.bda2f8fc.chunk.js",
-    "main.js.map": "/plantIn-website/static/js/main.bda2f8fc.chunk.js.map",
+    "main.css": "/plantIn-website/static/css/main.0b795364.chunk.css",
+    "main.js": "/plantIn-website/static/js/main.8c44fbed.chunk.js",
+    "main.js.map": "/plantIn-website/static/js/main.8c44fbed.chunk.js.map",
     "runtime-main.js": "/plantIn-website/static/js/runtime-main.0342281e.js",
     "runtime-main.js.map": "/plantIn-website/static/js/runtime-main.0342281e.js.map",
     "static/js/2.2b7e95c8.chunk.js": "/plantIn-website/static/js/2.2b7e95c8.chunk.js",
     "static/js/2.2b7e95c8.chunk.js.map": "/plantIn-website/static/js/2.2b7e95c8.chunk.js.map",
     "index.html": "/plantIn-website/index.html",
-    "static/css/main.37a71735.chunk.css.map": "/plantIn-website/static/css/main.37a71735.chunk.css.map",
+    "static/css/main.0b795364.chunk.css.map": "/plantIn-website/static/css/main.0b795364.chunk.css.map",
     "static/js/2.2b7e95c8.chunk.js.LICENSE.txt": "/plantIn-website/static/js/2.2b7e95c8.chunk.js.LICENSE.txt",
     "static/media/article_image_lamp.9c921ebe.png": "/plantIn-website/static/media/article_image_lamp.9c921ebe.png",
     "static/media/article_image_pot.8dc0b6d0.png": "/plantIn-website/static/media/article_image_pot.8dc0b6d0.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.0342281e.js",
     "static/js/2.2b7e95c8.chunk.js",
-    "static/css/main.37a71735.chunk.css",
-    "static/js/main.bda2f8fc.chunk.js"
+    "static/css/main.0b795364.chunk.css",
+    "static/js/main.8c44fbed.chunk.js"
   ]
 }
