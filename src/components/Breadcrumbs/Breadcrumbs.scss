@@ -1,0 +1,29 @@
+.breadcrumbs {
+    display: flex;
+    flex-direction: row;
+    color: #91a0b6;
+    margin: 35px 0;
+    padding: 0;
+
+    .breadcrumbs__item a {
+        margin-right: 50px;
+        &::after {
+            height: 20px;
+            position: absolute;
+            content: '';
+            margin-left: 15px;
+            width: 24px;
+            height: 24px;
+            background-image: url('../../assets/images/chevron_left.svg');
+        }
+    }
+}
+
+@media (max-width: 1025px) {
+    .breadcrumbs {
+        margin: 15px 0;
+    }
+    .breadcrumbs__item--last {
+        display: none;
+    }
+}

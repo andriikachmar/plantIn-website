@@ -1,0 +1,16 @@
+.rectangle {
+    position: relative;
+    margin-bottom: 15px;
+
+    img {
+        border-radius: 4px;
+    }
+}
+
+.rectangle span {
+    position: absolute;
+    color: #fff;
+    font-size: 14px;
+    left: 21px;
+    top: 8px;
+}

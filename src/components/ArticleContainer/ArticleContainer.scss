@@ -1,0 +1,47 @@
+.article--top,
+.article--new,
+.article--interesting,
+.article--skeleton {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 0 40px 0;
+    gap: 0 30px;
+    border-bottom: 1px solid #c4c4c4;
+}
+
+.article--top,
+.article--interesting {
+    .article__heading {
+        flex: 0 0 100%;
+        margin-bottom: 15px;
+        text-transform: uppercase;
+        font-size: 14px;
+        color: #91a0b6;
+    }
+}
+
+.article--top {
+    .card {
+        flex: 45%;
+    }
+}
+
+.article--interesting {
+    padding-bottom: 0;
+    border-bottom: none;
+
+    .card {
+        flex: 1 0 calc(33.333% - 20px);
+        margin: 0 0 30px 0;
+    }
+}
+
+.article--skeleton {
+    border-bottom: none;
+}
+
+@media (max-width: 1103px) {
+    .article--skeleton {
+        display: none;
+    }
+}
