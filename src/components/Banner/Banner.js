@@ -25,11 +25,7 @@ const Banner = () => {
                 </button>
             </div>
             <div className='banner__image'>
-                <img
-                    src={bannerImg}
-                    srcset={`${bannerImg} 2x`}
-                    alt='banner girl'
-                />
+                <img src={bannerImg} alt='banner girl' />
             </div>
         </div>
     );

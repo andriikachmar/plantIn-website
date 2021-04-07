@@ -26,11 +26,7 @@ const SearchBlock = () => {
                 </div>
             </div>
             <div className='search__image'>
-                <img
-                    src={girlImage}
-                    srcset={`${girlImage} 2x`}
-                    alt='girl'
-                />
+                <img src={girlImage} alt='girl' />
             </div>
         </section>
     );

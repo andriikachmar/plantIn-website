@@ -40,11 +40,7 @@ const Header = () => {
                     <SearchSvg />
                 </button>
                 <button className='actions__item--user'>
-                    <img
-                        src={user}
-                        srcset={`${user} 2x`}
-                        alt='user'
-                    />
+                    <img src={user} alt='user' />
                 </button>
                 <button
                     className='actions__item--menu'
