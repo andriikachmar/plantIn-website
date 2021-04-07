@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/plantIn-website/static/css/main.37a71735.chunk.css",
+    "main.js": "/plantIn-website/static/js/main.bda2f8fc.chunk.js",
+    "main.js.map": "/plantIn-website/static/js/main.bda2f8fc.chunk.js.map",
+    "runtime-main.js": "/plantIn-website/static/js/runtime-main.0342281e.js",
+    "runtime-main.js.map": "/plantIn-website/static/js/runtime-main.0342281e.js.map",
+    "static/js/2.2b7e95c8.chunk.js": "/plantIn-website/static/js/2.2b7e95c8.chunk.js",
+    "static/js/2.2b7e95c8.chunk.js.map": "/plantIn-website/static/js/2.2b7e95c8.chunk.js.map",
+    "index.html": "/plantIn-website/index.html",
+    "static/css/main.37a71735.chunk.css.map": "/plantIn-website/static/css/main.37a71735.chunk.css.map",
+    "static/js/2.2b7e95c8.chunk.js.LICENSE.txt": "/plantIn-website/static/js/2.2b7e95c8.chunk.js.LICENSE.txt",
+    "static/media/article_image_lamp.9c921ebe.png": "/plantIn-website/static/media/article_image_lamp.9c921ebe.png",
+    "static/media/article_image_pot.8dc0b6d0.png": "/plantIn-website/static/media/article_image_pot.8dc0b6d0.png",
+    "static/media/article_image_report.d0813ac3.png": "/plantIn-website/static/media/article_image_report.d0813ac3.png",
+    "static/media/article_image_seedling.9c5b585d.png": "/plantIn-website/static/media/article_image_seedling.9c5b585d.png",
+    "static/media/article_image_soil.20b87c43.png": "/plantIn-website/static/media/article_image_soil.20b87c43.png",
+    "static/media/article_image_watering.0ae24b7a.png": "/plantIn-website/static/media/article_image_watering.0ae24b7a.png",
+    "static/media/banner.0d355322.png": "/plantIn-website/static/media/banner.0d355322.png",
+    "static/media/Breadcrumbs.scss": "/plantIn-website/static/media/chevron_left.57bb3d6a.svg",
+    "static/media/girl_image.5c5b1597.png": "/plantIn-website/static/media/girl_image.5c5b1597.png",
+    "static/media/menu.32a4a731.svg": "/plantIn-website/static/media/menu.32a4a731.svg",
+    "static/media/search.282e9ddb.svg": "/plantIn-website/static/media/search.282e9ddb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0342281e.js",
+    "static/js/2.2b7e95c8.chunk.js",
+    "static/css/main.37a71735.chunk.css",
+    "static/js/main.bda2f8fc.chunk.js"
+  ]
+}
