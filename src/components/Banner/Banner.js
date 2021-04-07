@@ -8,7 +8,11 @@ const Banner = () => {
         <div className='banner'>
             <div className='banner__content'>
                 <div className='banner__logo'>
-                    <img src={logo} alt='logo' />
+                    <img
+                        src={logo}
+                        srcset={`${logo} 2x`}
+                        alt='logo'
+                    />
                 </div>
                 <h1 className='banner__heading'>
                     Get unlimited access to exclusive articles
@@ -21,7 +25,11 @@ const Banner = () => {
                 </button>
             </div>
             <div className='banner__image'>
-                <img src={bannerImg} alt='banner girl' />
+                <img
+                    src={bannerImg}
+                    srcset={`${bannerImg} 2x`}
+                    alt='banner girl'
+                />
             </div>
         </div>
     );

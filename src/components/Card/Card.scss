@@ -45,6 +45,19 @@
         }
     }
 }
+
+@media (max-width: 1024px) {
+    .card__content--date {
+        margin-bottom: 0;
+    }
+    .card__content--text {
+        margin-top: 0;
+    }
+    .card__content--heading {
+        margin: 10px 0;
+    }
+}
+
 @media (max-width: 900px) {
     .article--new .card .card__content--heading {
         font-size: 24px;

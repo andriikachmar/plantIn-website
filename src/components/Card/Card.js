@@ -5,7 +5,11 @@ const Card = ({ header, text, imgSrc }) => {
     return (
         <div className='card'>
             <div className='card__image-wrapper'>
-                <img src={imgSrc} alt='card' />
+                <img
+                    src={imgSrc}
+                    srcset={`${imgSrc} 2x`}
+                    alt='card'
+                />
             </div>
             <div className='card__content'>
                 <p className='card__content--date'>

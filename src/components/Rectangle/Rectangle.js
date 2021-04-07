@@ -5,7 +5,11 @@ import './Rectangle.scss';
 const Rectangle = () => {
     return (
         <div className='rectangle'>
-            <img src={RectangleImg} alt='rectangle' />
+            <img
+                src={RectangleImg}
+                srcset={`${RectangleImg} 2x`}
+                alt='rectangle'
+            />
             <span>New</span>
         </div>
     );

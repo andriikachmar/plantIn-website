@@ -6,13 +6,25 @@ const ArticleSkeleton = () => {
     return (
         <section className='article--skeleton'>
             <div className='article--skeleton__image'>
-                <img src={CardImageSkeleton} alt='skeleton' />
+                <img
+                    src={CardImageSkeleton}
+                    srcset={`${CardImageSkeleton} 2x`}
+                    alt='skeleton'
+                />
             </div>
             <div className='article--skeleton__image'>
-                <img src={CardImageSkeleton} alt='skeleton' />
+                <img
+                    src={CardImageSkeleton}
+                    srcset={`${CardImageSkeleton} 2x`}
+                    alt='skeleton'
+                />
             </div>
             <div className='article--skeleton__image'>
-                <img src={CardImageSkeleton} alt='skeleton' />
+                <img
+                    src={CardImageSkeleton}
+                    srcset={`${CardImageSkeleton} 2x`}
+                    alt='skeleton'
+                />
             </div>
         </section>
     );

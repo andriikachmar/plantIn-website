@@ -67,6 +67,12 @@ $color-green: #04bf94;
     display: none;
 }
 
+@media (max-width: 1200px) {
+    .header {
+        padding: 0 15px;
+    }
+}
+
 @media (max-width: 1130px) {
     .navbar__list .navbar__item a {
         margin: 0 10px;
